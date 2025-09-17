@@ -50,4 +50,4 @@ doi={10.1109/TPAMI.2025.3610211}}
 
 ## License
 
-GPL-3.0 license
+MIT License
